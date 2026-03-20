@@ -159,7 +159,7 @@ if (name.isEmpty || email.isEmpty) {
 
 ## 👨‍💻 Author
 
-**Your Name**
+Dhruv Patel
 
 ---
 
